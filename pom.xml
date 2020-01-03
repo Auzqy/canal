@@ -328,7 +328,9 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>5.1.47</version>
+                <!--                <version>5.1.47</version>-->
+                <!-- au modified -->
+                <version>8.0.17</version>
                 <!--<scope>test</scope>-->
             </dependency>
             <dependency>
